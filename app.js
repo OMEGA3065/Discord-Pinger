@@ -11,9 +11,9 @@ import {
 } from 'discord-interactions';
 import { setServerData, getServerData } from './utils.js';
 
-PING_COOLDOWN = 3600000 // in minutes
-DAYTIME_START = 6 // in hours, cannot be decimal, from 0 to 23
-DAYTIME_END = 23 // in hours, cannot be decimal, from 0 to 23
+var PING_COOLDOWN = 3600000 // in minutes
+var DAYTIME_START = 6 // in hours, cannot be decimal, from 0 to 23
+var DAYTIME_END = 23 // in hours, cannot be decimal, from 0 to 23
 
 const app = express();
 const PORT = process.env.PORT || 3000;
