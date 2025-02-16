@@ -5,8 +5,8 @@ Distinguishes between daytime and night time (daytime is from 6AM EST to 11PM ES
 # Setup
 
 Rename *.env.sample* to *.env* and fill in the fields
-To install all required packages run: `npm install`
-To register all commands run: `npm run register`
-To start the server use: `npm run start`
+To install all required packages run: `npm install`<br>
+To register all commands run: `npm run register`<br>
+To start the server use: `npm run start`<br>
 
 BASED OFF OF https://discord.com/developers/docs/quick-start/getting-started
