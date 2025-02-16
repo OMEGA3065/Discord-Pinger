@@ -11,4 +11,4 @@ To start the server use: `npm run start`<br>
 
 # Credits
 
-BASED OFF OF https://discord.com/developers/docs/quick-start/getting-started
+- https://discord.com/developers/docs/quick-start/getting-started
