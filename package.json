@@ -1,7 +1,7 @@
 {
   "name": "discord-ping-bot",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Ping set roles with /ping limeted to every hour.",
   "main": "app.js",
   "type": "module",
